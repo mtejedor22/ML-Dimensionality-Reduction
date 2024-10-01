@@ -3,8 +3,6 @@
 ## Introduction
 This repository contains code for performing dimensionality reduction and clustering on datasets using various techniques such as PCA, t-SNE, KMeans, and GMM. Dimensionality reduction is a crucial step in data preprocessing, aiming to reduce the number of features while preserving important information. Clustering algorithms help identify natural groupings or clusters within the data, aiding in exploratory data analysis and classification tasks.
 
-For acessing the files through Georgia Tech affiliation use the following link: [https://gatech.box.com/s/162mwsmx4eux0sn92lxe8ucgdf84zm4q](https://gatech.box.com/s/162mwsmx4eux0sn92lxe8ucgdf84zm4q)
-
 ## Dependencies
 Before running the code, make sure to install the required library using the following command:
 
